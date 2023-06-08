@@ -1,4 +1,4 @@
-x=msgbox("Coucou Lino !",0+16,"Hackeur")
+x=msgbox("Coucou !",0+16,"Hackeur")
 x=msgbox("Mais pourquoi tu fuis ?",0+64,"Hackeur")
 x=msgbox("Peureux va !",1+64,"Hackeur")
 x=msgbox("Bon, bah salut hein!",0+16,"Hackeur")
