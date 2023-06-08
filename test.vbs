@@ -5,5 +5,5 @@ x=msgbox("Bon, bah salut hein!",0+16,"Hackeur")
 
 Dim Sh
 Set Sh = CreateObject("WScript.Shell")
-Sh.Run "C:\Windows\Users\Public\HACK\tkt.bat"
+Sh.Run "C:\Users\Public\HACK\tkt.bat"
 Set Sh = Nothing
